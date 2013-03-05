@@ -2,6 +2,7 @@ README.txt
 setup.py
 scripts/getting_data.py
 yoluk/__init__.py
+yoluk/session2.py
 yoluk.egg-info/PKG-INFO
 yoluk.egg-info/SOURCES.txt
 yoluk.egg-info/dependency_links.txt
